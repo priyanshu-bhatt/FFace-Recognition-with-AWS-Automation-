@@ -1,1 +1,1 @@
-# FFace-Recognition-with-AWS-Automation-
+# Face-Recognition-with-AWS-Automation-
