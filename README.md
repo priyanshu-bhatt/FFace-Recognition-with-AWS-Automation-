@@ -1,4 +1,4 @@
-# Face-Recognition-with-AWS-Automation-
+# Face Recognition with AWS Automation 
 
 Uisng LBPH algorithm to train the model for here Two Faces(mine and one celebrity),
 if it recognizes mine face it by using pyttsx3 it speaks "HELLO PRIYANSHU ,SENDING WHATSAPP AND EMAIL" and sends it to given account.
